@@ -40,7 +40,11 @@
         </a> 
     </li>
     <li> Scipy </li>
-    <li> System of Linear Equation </li>
+    <li>
+        <a href="../Code/system-of-linear-equations.ipynb"> 
+            System of Linear Equation 
+        </a>
+    </li>
     <li> Regression and Interpolation </li>
     <li>
         <a href="../Code/root-of-equations.ipynb"> 

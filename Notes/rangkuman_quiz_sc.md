@@ -42,7 +42,11 @@
     <li> Scipy </li>
     <li> System of Linear Equation </li>
     <li> Regression and Interpolation </li>
-    <li> Root of Equation </li>
+    <li>
+        <a href="../Code/root-of-equations.ipynb"> 
+            Root of Equation 
+        </a>
+    </li>
     <li> Numerical Differentiation and Integration  </li>
 </ul>
 

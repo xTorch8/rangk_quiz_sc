@@ -21,37 +21,45 @@
 <ul>
     <li>
         <a href="https://www.w3schools.com/python/default.asp"> 
-            Python Fundamental 
+            Python Fundamental
         </a>
+        (Optional, Recommended)
     </li>
     <li>
         <a href="#numpy"> 
             NumPy 
         </a>
+        (Optional, Recommended)
     </li>
     <li>
         <a href="#pandas">
             Pandas
         </a> 
+        (Optional, Recommended)
     </li>
     <li> 
         <a href="#matplotlib"> 
             Matplotlib
         </a> 
+        (Optional, Recommended)
     </li>
-    <li> Scipy </li>
+    <li> Scipy (Optional, Recommended) </li>
     <li>
         <a href="../Code/system-of-linear-equations.ipynb"> 
             System of Linear Equation 
         </a>
     </li>
-    <li> Regression and Interpolation </li>
+    <li> Regression </li>
     <li>
         <a href="../Code/root-of-equations.ipynb"> 
             Root of Equation 
         </a>
     </li>
-    <li> Numerical Differentiation and Integration  </li>
+    <li>
+        <a href="..Code/numerical_integration.ipynb">
+            Numerical Integration
+        </a>
+    </li>
 </ul>
 
 <section>

@@ -49,7 +49,11 @@
             System of Linear Equation 
         </a>
     </li>
-    <li> Regression </li>
+    <li>
+        <a href="../Code/regression.ipynb">
+            Regression
+        </a>
+    </li>
     <li>
         <a href="../Code/root-of-equations.ipynb"> 
             Root of Equation 
